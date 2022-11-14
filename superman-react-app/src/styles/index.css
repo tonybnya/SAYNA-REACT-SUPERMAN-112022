@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Adventure';
+  src: url(../assets/fonts/Adventure.otf);
+}
+
+@font-face {
+  font-family: 'AdventureHollow';
+  src: url(../assets/fonts/Adventure\ Hollow.otf);
+}
+
+@font-face {
+  font-family: 'Cantarell';
+  src: url(../assets/fonts/Cantarell-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Rajdhani';
+  src: url(../assets/fonts/Rajdhani.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Cantarell';
+  color: #fff;
+  background-color: black;
+}
