@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: 'AdventureHollow';
-  src: url(../assets/fonts/Adventure\ Hollow.otf);
+  src: url(../assets/fonts/AdventureHollow.otf);
 }
 
 @font-face {
   font-family: 'Cantarell';
-  src: url(../assets/fonts/Cantarell-Regular.ttf);
+  src: url(../assets/fonts/Cantarell.ttf);
 }
 
 @font-face {
@@ -27,5 +27,5 @@
 body {
   font-family: 'Cantarell';
   color: #fff;
-  background-color: black;
+  background-color: #222;
 }

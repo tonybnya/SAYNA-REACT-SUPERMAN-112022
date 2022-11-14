@@ -1,0 +1,18 @@
+.nav-link{
+  color: #fff;
+  font-size: 22px ;
+}
+
+.active{
+  font-weight: bolder ;
+  text-decoration: underline;
+  color: #fff !important;
+}
+
+nav{
+ background-color: black !important;
+}
+
+.navbar-toggler{
+background-color: #fff !important;
+}
