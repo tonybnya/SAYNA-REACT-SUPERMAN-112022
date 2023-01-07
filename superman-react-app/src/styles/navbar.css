@@ -1,19 +1,19 @@
-.nav-link{
+.nav-link {
   color: #fff;
   font-size: 22px;
-  font-family: 'Cantarell';
+  font-family: "Cantarell";
 }
 
-.active{
-  font-weight: bolder ;
+.active {
+  font-weight: bolder;
   text-decoration: underline;
   color: #fff !important;
 }
 
-nav{
- background-color: black !important;
+nav {
+  background-color: black !important;
 }
 
-.navbar-toggler{
-background-color: #fff !important;
+.navbar-toggler {
+  background-color: #fff !important;
 }
